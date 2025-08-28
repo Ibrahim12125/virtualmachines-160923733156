@@ -5,3 +5,6 @@ POST attributes
 
 GET attribute
 ![image alt](https://github.com/Ibrahim12125/virtualmachines-160923733156/blob/65b86ae0422a56a979332c97fadbc7a91a5898ce/Screenshot%202025-08-22%20213820.png)
+
+PUT attribute
+![image alt](https://github.com/Ibrahim12125/virtualmachines-160923733156/blob/b4d4780b85884d50d9c5340234c8c083624fab10/Screenshot%202025-08-22%20213831.png)
