@@ -8,3 +8,6 @@ GET attribute
 
 PUT attribute
 ![image alt](https://github.com/Ibrahim12125/virtualmachines-160923733156/blob/b4d4780b85884d50d9c5340234c8c083624fab10/Screenshot%202025-08-22%20213831.png)
+
+DELETE attribute
+![image alt](https://github.com/Ibrahim12125/virtualmachines-160923733156/blob/fb1f9b74b95ef35e778612f9587591b5931e5e30/Screenshot%202025-08-22%20213847.png)
